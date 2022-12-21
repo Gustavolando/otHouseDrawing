@@ -10,8 +10,6 @@ This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?
 
 I hope you like it, code it and [watch it](https://gustavolando.github.io/otHouseDrawing/)!
 
-![House Drawing](https://gustavolando.github.io/otHouseDrawing/Html%20CSS%20Glowing%20Text%20Animation%20Effects%201.png)
-
-![House Drawing](https://gustavolando.github.io/otHouseDrawing/Html%20CSS%20Glowing%20Text%20Animation%20Effects%202.png)
+![House Drawing](https://gustavolando.github.io/otHouseDrawing/House%20Drawing.png)
 
 Here is the demo link:  https://gustavolando.github.io/otHouseDrawing/
